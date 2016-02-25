@@ -47,6 +47,9 @@ _crypt
 *.CTB2
 *.locky
 *.trun
+Recovery+bwpnl.html
+Recovery+bwpnl.txt
+Recovery+bwpnl.png
 HELPDECRYPT.TXT
 HELP_YOUR_FILES.TXT
 HELP_TO_DECRYPT_YOUR_FILES.txt
